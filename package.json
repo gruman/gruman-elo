@@ -1,0 +1,26 @@
+{
+  "name": "gruman-elo",
+  "version": "1.0.1",
+  "description": "Elo rankings for React and Node",
+  "main": "index.ts",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "typescript",
+    "javascipt",
+    "package"
+  ],
+  "author": "Matthew Gruman",
+  "license": "CC BY 4.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gruman/gruman-elo.git"
+  },
+  "bugs": {
+    "url": "git+https://github.com/gruman/gruman-elo.git"
+  },
+  "homepage": "https://matthewgruman.com/gruman-elo"
+}
