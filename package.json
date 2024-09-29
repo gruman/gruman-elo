@@ -1,6 +1,6 @@
 {
   "name": "gruman-elo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Elo rankings for React and Node",
   "main": "index.ts",
   "scripts": {
@@ -22,5 +22,5 @@
   "bugs": {
     "url": "https://github.com/gruman/gruman-elo/issues"
   },
-  "homepage": "https://matthewgruman.com/gruman-elo"
+  "homepage": "https://github.com/gruman/gruman-elo"
 }
