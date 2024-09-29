@@ -1,6 +1,6 @@
 {
   "name": "gruman-elo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Elo rankings for React and Node",
   "main": "index.ts",
   "scripts": {
