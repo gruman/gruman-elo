@@ -3,15 +3,15 @@
   "version": "1.0.1",
   "description": "Elo rankings for React and Node",
   "main": "index.ts",
-  "private": false,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
   },
   "keywords": [
     "typescript",
-    "javascipt",
-    "package"
+    "javascript",
+    "elo",
+    "rankings"
   ],
   "author": "Matthew Gruman",
   "license": "CC BY 4.0",
@@ -20,7 +20,7 @@
     "url": "git+https://github.com/gruman/gruman-elo.git"
   },
   "bugs": {
-    "url": "git+https://github.com/gruman/gruman-elo.git"
+    "url": "https://github.com/gruman/gruman-elo/issues"
   },
   "homepage": "https://matthewgruman.com/gruman-elo"
 }
